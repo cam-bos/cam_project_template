@@ -5,6 +5,12 @@ OpenFiles: README.md
 # and in the inst/rstudio/templates folder
 Icon: Element-Stars-Blue-280px.png
 
+Parameter: useRenv
+Widget: CheckboxInput
+Label: Use renv?
+Default: On
+Position: right
+
 Parameter: createDefaultFolders
 Widget: CheckboxInput
 Label: Create default folders?

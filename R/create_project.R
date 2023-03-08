@@ -44,12 +44,12 @@ create_project <-
         '',
         '',
         '## Description',
-        '---',
+        '',
         'Project description...',
         '',
         '',
         '## Files',
-        '---',
+        '',
         '',
         ''
       )
