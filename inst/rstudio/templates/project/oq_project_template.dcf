@@ -1,6 +1,6 @@
 Binding: create_project
 Title: CAM Project Template
-OpenFiles: README.md
+OpenFiles: code/03_analyze.R, README.md
 # In the project you can also add icons (the icon should be a PNG, smaller than 64kb
 # and in the inst/rstudio/templates folder
 Icon: Element-Stars-Blue-280px.png
