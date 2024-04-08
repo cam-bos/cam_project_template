@@ -1,9 +1,9 @@
-Package: oqProjectTemplate
+Package: camProjectTemplate
 Type: Package
 Title: Creates a Standard CAM Analysis Project
 Version: 0.1.0
 Author: Brandon Farr
-Maintainer: Brandon Farr <brandon@thefarrs.org>
+Maintainer: Brandon Farr <bfarr@congressasset.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
